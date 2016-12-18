@@ -1,4 +1,4 @@
-# hackathon-flask-server
+# :snake: hackathon-flask-server
  Simple server for [SmartVideoSearch app](https://github.com/Drapegnik/SmartVideoSearch) that used like middleware between client and [elastic search](https://www.elastic.co/) engine
 
 ## Setup
